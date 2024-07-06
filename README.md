@@ -5,3 +5,4 @@
 ## Kelas : TI.22.A.2
 ## Mata Kuliah : Pengolahan Citra
 ## PDF : [Laporan Project UAS Pengolahan Citra.pdf](https://github.com/user-attachments/files/16115137/Laporan.Project.UAS.Pengolahan.Citra.pdf)
+## PDF PAPER PENGOLAHAN CITRA : [Pengembangan Algoritma Manipulasi Gambar Menggunakan Model HSV.pdf](https://github.com/user-attachments/files/16115167/Pengembangan.Algoritma.Manipulasi.Gambar.Menggunakan.Model.HSV.pdf)
