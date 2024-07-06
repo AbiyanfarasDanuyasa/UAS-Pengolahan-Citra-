@@ -4,3 +4,4 @@
 3. Muhammad Zidan Fadillah (312210277)
 ## Kelas : TI.22.A.2
 ## Mata Kuliah : Pengolahan Citra
+## PDF : [Laporan Project UAS Pengolahan Citra.pdf](https://github.com/user-attachments/files/16115137/Laporan.Project.UAS.Pengolahan.Citra.pdf)
